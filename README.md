@@ -6,14 +6,16 @@
 I am Computational Science student who loves exploring the space where data meets creativity. I enjoy diving into datasets, spotting patterns, building models, and making complex data feel simple and understandable. 
 
 
-### A little about me:
+### A little about me
 > ⭐️ Data detective
 >
 > ⭐️ Passionate about statistics and mathematics
 >
 > ⭐️ Loves making silly little animations
 
+---
 
+### 🌟 Explore my portfolio [here](https://github.com/zzzimtzoe/Portfolio)
 
 ---
 
@@ -34,9 +36,12 @@ This project examines how education impacts income in Germany, addressing endoge
 - Bayesian analysis allows flexible testing of instrument validity and confirms robustness of results.
 - Both Bayesian IV and 2SLS perforom similarly well.
 
-⭐️ [Find my summary poster with methods and results here](poster_educational_return.pdf)  
-⭐️ [Bayesian approach code](code_bayesian_approach.py)  
-⭐️ [Frequentist approach code](code_frequentist_approach.py)  
+⭐️ [Summary poster with methods and results](https://github.com/zzzimtzoe/Portfolio/blob/main/poster_educational_return.pdf)
+
+⭐️ [Bayesian approach code](https://github.com/zzzimtzoe/Portfolio/blob/main/code_bayesian_approach.py) 
+
+⭐️ [Frequentist approach code](https://github.com/zzzimtzoe/Portfolio/blob/main/code_frequentist_approach.py)
+
 
 
 ---
