@@ -8,13 +8,12 @@
 
 I am Computational Science student who loves exploring the space where data meets creativity. I enjoy diving into datasets, spotting patterns, building models, and making complex data feel simple and understandable. 
 
-
-### A little about me
-> ⭐️ Data detective
->
-> ⭐️ Passionate about statistics and mathematics
->
-> ⭐️ Loves making silly little animations
+  ### A little about me
+  > ⭐️ Data detective
+  >
+  > ⭐️ Passionate about statistics and mathematics
+  >
+  > ⭐️ Loves making silly little animations
 
 ---
 
