@@ -1,7 +1,10 @@
 <h1 align="center">Hey, it's Zoë ⭐️</h1>
 <h3 align="center">Computational Science Student</h3>
 
+---
+
 <img src="https://github.com/zzzimtzoe/Portfolio/blob/main/luci_timeout.gif?raw=true" alt="luci gif" align="right" width="260" style="border-radius: 8px; margin-left: 25px;"/>
+
 
 I am Computational Science student who loves exploring the space where data meets creativity. I enjoy diving into datasets, spotting patterns, building models, and making complex data feel simple and understandable. 
 
