@@ -9,7 +9,7 @@
 I am Computational Science student who loves exploring the space where data meets creativity. I enjoy diving into datasets, spotting patterns, building models, and making complex data feel simple and understandable. 
 
   ### A little about me
-  > ⭐️ Data detective
+  > ⭐️ Data Analytics
   >
   > ⭐️ Passionate about statistics and mathematics
   >
